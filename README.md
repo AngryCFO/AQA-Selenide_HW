@@ -1,5 +1,5 @@
 
-[![Build status](https://ci.appveyor.com/api/projects/status/88v60gs9opxmr28b/branch/main?svg=true)](https://ci.appveyor.com/project/AngryCFO/selenide/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/eohr268fjppdfd53/branch/main?svg=true)](https://ci.appveyor.com/project/AngryCFO/aqa-selenide-hw/branch/main)
 
 
 # Домашнее задание к занятию «2.2. Selenide»
